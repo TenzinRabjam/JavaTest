@@ -1,0 +1,3 @@
+"BillOlsen"     "9148thStreet" "SaltLakeCity"	UT	84112	2	25	2012	1250.00		.0325	2
+"MaryHenderson"	"1374OakLane" "LoveCanal"	NY	10035	3	28	2012	7000.00		.0625	3
+"AustinPowers"  "10DowningSt." "Pittsburg"	PA	13417	4	1	2012	12800.00	.0700	5
